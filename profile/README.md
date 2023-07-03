@@ -8,9 +8,10 @@ AI Blockchain Ventures is a technology company specializing in AI and blockchain
 ## Contributing
 We welcome contributions from the open-source community. Please follow the guidelines outlined in the `CONTRIBUTING.md` file in the respective repositories to contribute.
 
+<!-- coming soon
 ## License
 The source code in this repository is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
-
+-->
 ## Contact
 If you have any questions or feedback, feel free to reach out to us:
 
