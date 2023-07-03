@@ -16,5 +16,5 @@ If you have any questions or feedback, feel free to reach out to us:
 
 - Email: hello@aiblockchainventures.com
 - Website: [https://aiblockchainventures.com/](https://aiblockchainventures.com/)
-- GitHub: [AIBlockchainVentures](https://github.com/AIBlockchainVentures)
+- GitHub: [AIBlockchainVentures](https://github.com/AI-Blockchain-Ventures)
 - Twitter: [siestakeyai](https://twitter.com/siestakeyai)
